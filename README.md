@@ -1,1 +1,1 @@
-The data set for this is available in Kaggle. I have used Random Forest with and without feature selection to do this. This was implemented in Google colab. Therefore you might find some codes for drive mounting.
+The data set for this is available in Kaggle. I have used Random Forest with and without feature selection to do this. This was implemented in Google colab. Therefore there are some drive mounting code lines.
