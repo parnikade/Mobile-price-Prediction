@@ -1,1 +1,2 @@
-The data set for this is available in Kaggle. I have used Random Forest with and without feature selection to do this. This was implemented in Google colab. Therefore there are some drive mounting code lines.
+Mobile device price prediction is very important for consumers as well as marketers. Consumers need to know what they are paying for and the marketers should keep up with the competition and should rate their mobile device well. In this paper, we will explore various machine learning techniques and compare their results. Along with machine learning techniques such as K-means, Random Forest we would also explore and use Feature Selection and Boosting techniques to make our prediction.
+
